@@ -1,3 +1,4 @@
+[Azure Account Setup and Portal Familiarization_2.pdf](https://github.com/user-attachments/files/28903031/Azure.Account.Setup.and.Portal.Familiarization_2.pdf)
 # azure-cloud-computing-lab1
 Azure onboarding and resource deployment project
 <img width="1136" height="638" alt="Azure subscription 1" src="https://github.com/user-attachments/assets/c530181a-9cd0-4963-8727-f9735d6bd542" />
